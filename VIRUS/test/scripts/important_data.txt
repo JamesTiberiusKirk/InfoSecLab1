@@ -1,0 +1,22 @@
+1. Follow the instructions on myDundee to form a study group. Subscribe to your study
+group by filling in the form at the link provided on myDundee. Solve exercise 2 as a
+group.
+2. Script Viruses
+Write a script virus for a script language of your choice, e.g., bash or Python. By definition,
+the virus needs to propagate itself by infecting other scripts. Once these other scripts are
+run, they propagate the virus further.
+Follow these guidelines for simplicity and security.
+(a) Create a new directory, VIRUS, and only work on the virus in this directory.
+(b) Make two subdirectories of VIRUS, one is called scripts, the other src.
+(c) Generate a few simple scripts in the scripts directory in the scripting language that
+you want your virus to propagate in. For example, write a couple of “Hello World”
+scripts, and one slightly more complex script. Also crate a regular text file, a binary
+executable program, and a script of another language.
+(d) Develop your virus in the src directory. Call your virus virus.
+(e) For simplicity and security, limit your virus to only infect files that are in the same
+directory as the virus itself.
+(f) To test your virus, always make a copy of the directory scripts called test and
+then copy the virus from src to test as well. In unix, you can make such copies as
+follows:
+cp -a scripts test/
+cp src/virus test/
