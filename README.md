@@ -15,7 +15,7 @@
 ## TODO (Marius)
 - Write code to check if the file is infected
     - ~~Figure out how to do loops in bash~~
-    - Figure out how to do if/else in bash
+    - ~~Figure out how to do if/else in bash~~
     - Figure out how to do a function in bash
 
 ## TODO (Aylin)
