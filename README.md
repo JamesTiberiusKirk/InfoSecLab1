@@ -6,6 +6,8 @@
 3. Copies the contents of virus to the found file
 
 ## General TODO
+- Make sure there is no deadlock
+    - There are no more files left to infect
 
 ## TODO (Dumitru)
 - Write some code to find the file type
