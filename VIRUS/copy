@@ -1,3 +1,0 @@
-mkdir -p test
-cp -a -f scripts test/
-cp -f src/virus test/
