@@ -1,5 +1,4 @@
-# InfoSecLab1
-Information Security Lab Sheet 1
+# Information Security Lab 1
 
 ## Virus actions
 1. Finds a single bash file
