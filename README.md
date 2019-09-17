@@ -15,4 +15,5 @@ Information Security Lab Sheet 1
 - Write code to check if the file is infected
 
 ## TODO (Aylin)
--
+- Make a function `infectFile(srcFile, victimFile)`
+    - This would copy the contents of `srcFile` to the end of the `victimFile`
