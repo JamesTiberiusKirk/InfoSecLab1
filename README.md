@@ -13,10 +13,11 @@
 - Write some code to find the file type
 
 ## TODO (Marius)
-- Write code to check if the file is infected
+- ~~Write code to check if the file is infected~~
     - ~~Figure out how to do loops in bash~~
     - ~~Figure out how to do if/else in bash~~
-    - Figure out how to do a function in bash
+    - ~~Figure out how to do a function in bash~~
+- Tailor the check function so it integrates well with the rest of the code
 
 ## TODO (Aylin)
 - Make a function `infectFile(srcFile, victimFile)`
