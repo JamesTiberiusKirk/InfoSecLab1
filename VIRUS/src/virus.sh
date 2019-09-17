@@ -15,4 +15,10 @@ chek_shbang(list){
 
 }
 
-find_bash_files
+check_if_infected(file){
+  
+}
+
+find_bash_files(){
+
+}
