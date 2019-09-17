@@ -16,5 +16,3 @@ Information Security Lab Sheet 1
 
 ## TODO (Aylin)
 -
-
-## What is need
