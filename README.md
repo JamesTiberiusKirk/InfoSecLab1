@@ -6,7 +6,7 @@
 3. Copies the contents of virus to the found file
 
 ## General TODO
-- Make sure there is no deadlock
+- Make sure there is no livelock
     - There are no more files left to infect
 
 ## TODO (Dumitru)
