@@ -11,8 +11,19 @@ find_bash_files(){
   done
 }
 
-chek_shbang(list){
+chek_shbang(){
 
 }
 
 find_bash_files
+
+infectFiles "filename1"
+
+
+
+infectFiles(){
+
+
+
+  
+}
